@@ -13,7 +13,7 @@ HTML, CSS, JavaScript
 Contributions are welcome! If you have any ideas, suggestions, or found a bug, please open an issue or submit a pull request. 
 Make sure to follow the contribution guidelines.
 
-**Feel free to contact at sukhmaniaur303@gmail.com**
+**Feel free to contact at sukhmanikaur303@gmail.com**
 
 **Acknowledgments**
 
